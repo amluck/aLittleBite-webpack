@@ -1,0 +1,24 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "This repository aimed to try the code/demo of webpack offical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amluck/aLittleBiteofWebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amluck/aLittleBiteofWebpack/issues"
+  },
+  "homepage": "https://github.com/amluck/aLittleBiteofWebpack#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
